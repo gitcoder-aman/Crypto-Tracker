@@ -86,4 +86,7 @@ dependencies {
 
     implementation(libs.bundles.ktor)
 
+    implementation(libs.androidx.material3.adaptive.navigation.suite)
+
+
 }
